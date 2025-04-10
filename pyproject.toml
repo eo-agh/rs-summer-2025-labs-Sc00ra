@@ -8,7 +8,7 @@ version = "0.1.0"
 requires-python = ">=3.9.21"
 description = "EO utilities for cloud-free mosaics"
 authors = [
-  { name = "Your Name", email = "your@email.com" }
+  { name = "Skórka", email = "barsko@student.agh.edu.pl" }
 ]
 
 [tool.setuptools.packages.find]

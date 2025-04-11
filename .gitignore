@@ -3,3 +3,5 @@
 geoapps
 geoapps.egg-info
 __pycache__
+geoapps/__pycache__
+geoapps.egg-info/__pycache__
